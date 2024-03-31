@@ -804,7 +804,7 @@
 }
 
 .box-1{
-    height: 33vw;
+    height: 37vw;
     width: 20vw;
     background-color: white;
     position: relative;
@@ -813,7 +813,7 @@
 }
 
 .box-2{
-    height: 40vw;
+    height: 45vw;
     width: 20vw;
     background-color: white;
     position: relative;
@@ -821,7 +821,7 @@
     margin-left: 2vw;
 }
 .box-3{
-    height: 45vw;
+    height: 50vw;
     width: 20vw;
     /* background-color: red; */
     background-color: white;
