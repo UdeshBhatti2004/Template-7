@@ -770,7 +770,6 @@
 .part-7{
     height: 10vw;
     width: 100%;
-    background-color: blue;
     position: relative;
     margin-top: 50vw;
     display: flex;
@@ -804,11 +803,11 @@
 }
 
 .box-1{
-    height: 37vw;
+    height: 35vw;
     width: 20vw;
     background-color: white;
     position: relative;
-    bottom: 5vw;
+    bottom: 7vw;
     margin-left: 24vw;
 }
 
@@ -817,16 +816,16 @@
     width: 20vw;
     background-color: white;
     position: relative;
-    bottom: 5vw;
+    bottom: 7vw;
     margin-left: 2vw;
 }
 .box-3{
-    height: 50vw;
+    height: 55vw;
     width: 20vw;
     /* background-color: red; */
     background-color: white;
     position: relative;
-    bottom: 5vw;
+    bottom: 7vw;
     margin-left: 2vw;
 
 }
